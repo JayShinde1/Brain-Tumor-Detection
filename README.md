@@ -18,6 +18,7 @@ NumPy, Pandas, Matplotlib (for data manipulation and visualization)
 Jupyter Notebook (for experimentation and analysis)
 
 Hii Deepak
+Hii Jay
 =======
 Dataset link: (https://www.kaggle.com/datasets/navoneel/brain-mri-images-for-brain-tumor-detection?select=yes)
 >>>>>>> f355e52cc69e21b8749fc89b6528d4bac504cbf2
