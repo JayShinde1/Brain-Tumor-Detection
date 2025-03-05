@@ -16,6 +16,8 @@ TensorFlow / Keras (for deep learning)
 OpenCV / PIL (for image handling)
 NumPy, Pandas, Matplotlib (for data manipulation and visualization)
 Jupyter Notebook (for experimentation and analysis)
+
+Hii Deepak
 =======
 Dataset link: (https://www.kaggle.com/datasets/navoneel/brain-mri-images-for-brain-tumor-detection?select=yes)
 >>>>>>> f355e52cc69e21b8749fc89b6528d4bac504cbf2
