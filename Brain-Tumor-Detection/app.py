@@ -5,7 +5,7 @@ import cv2
 import tensorflow as tf
 from flask_cors import CORS
 
-app = Flask(__name__)
+app = Flask(__name__, static_folder="../frontend/dist", static_url_path="/")
 CORS(app)
 UPLOAD_FOLDER = 'uploads'
 app.config['UPLOAD_FOLDER'] = UPLOAD_FOLDER
