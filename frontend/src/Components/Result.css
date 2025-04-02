@@ -1,0 +1,66 @@
+.image_file {
+    max-width: 50vh;
+    max-height: 75vh;
+}
+
+.main_container2{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: 100%;
+    padding: 0px;
+}
+
+.main_heading{
+    font-size: 2rem;
+    font-weight: bold;
+    color: #d32f2f;
+    margin-left: 15px;
+}
+
+.submain_container{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding: 0px;
+}
+
+.result {
+    width: 100%;
+    height: 100%;
+    padding: 0px;
+    padding-left: 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.info_container2 {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    padding: 0px;
+}
+
+.to_home {
+    position: absolute;
+    top: 50px;
+    right: 50px;
+    padding: 12px 24px;
+    background-color: rgb(0, 0, 0);
+    color: white;
+    border-radius: 15px;
+    border: 1px solid white;
+    box-shadow: 0px 5px 15px rgba(255, 255, 255, 1);
+    transition: all 0.3s ease-in-out;
+}
+
+.to_home:hover {
+    transition: all 0.3s ease-in-out;
+    color: black;
+    background-color: white;
+    box-shadow: 0px 8px 20px rgba(0 , 0, 0, 0.6);
+}
